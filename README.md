@@ -146,4 +146,4 @@ FormCMS is actively evolving toward a vision of **AI-native app development**:
 | **Visual Builder** | No-code editing | Drag-and-drop page builder, visual schema editor, real-time preview, theme templates |
 | **Marketplace** | Community ecosystem | Pre-built app templates, community components, one-click install |
 
-> **The Vision:** Describe your app in plain English → AI generates the entire backend → deploy with one click.
+> **The Vision:** Describe your app in plain English → AI generates the entire backend → deploy with one click.test 
